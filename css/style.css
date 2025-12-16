@@ -13,9 +13,9 @@
 }
 .oval {
     height: 100px;
-    width: 300px;
+    width: 200px;
     background-color: lightblue;
-    border-radius: 100px;
+    border-radius: 100px / 50px;
 }
 .rhombus{
     height: 100px;
